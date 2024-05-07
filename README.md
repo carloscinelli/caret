@@ -3,7 +3,7 @@
 [![CRAN_Status_Badge](http://www.r-pkg.org/badges/version/caret)](http://cran.r-project.org/web/packages/caret)
 [![Downloads](http://cranlogs.r-pkg.org/badges/caret)](http://cran.rstudio.com/package=caret)
   
-# Classification and Regression Training
+# Classification and Regression Training!
 
 Miscellaneous functions for training and plotting classification and regression models.  Detailed documentation is at http://topepo.github.io/caret/index.html
 
